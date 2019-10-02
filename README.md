@@ -5,7 +5,7 @@ This repo is a curated list of all possible file types with their headers. </br>
 Please use following format </br>
 
 ### Filetype
-Header: 
+Header: </br>
 Footer:
 
 ### Contribution Guidelines
