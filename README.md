@@ -6,7 +6,7 @@ Please use following format </br>
 
 ## Pictures
 | File Type | Header | Footer | 
-| :-------: | ------------ | ------ | ------ |
+| :-------: | ------ | ------ |
 | JPEG | 0xFF 0xD8 0xFF | 0xFF 0xD9 |
 
 ### Contribution Guidelines
